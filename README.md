@@ -273,6 +273,8 @@ and also has vfx and video editing built in.
 
 - [Excalidraw](https://excalidraw.com) - An open source web whiteboard. I personally use it for notes.
 
+- [Spiderhash](https://spiderhash.io/) - A webhook inspection and debugging tool for capturing, replaying, and troubleshooting webhook deliveries during API integration testing.
+
 - [Farside](https://farside.link) - A redirection service that allows to load balance and choose between multiple privacy friendly alternative frontends
 
 - [Free-prog-books](https://ebookfoundation.github.io/free-programming-books) - A resource to find free books relating to tech. ![ossoft][oss] 🌟
