@@ -420,6 +420,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Conventional Commits](https://www.conventionalcommits.org/) - A commit message convention that makes changelogs and semantic versioning easier to automate. `Free` `OSS`
 
+- [DevBox Tools](https://devbox.tools/) - Free browser-based toolbox with 58+ utilities for development, SEO, and daily tasks. `Free`
+
 ## Thanks For Reading
 
 Hopefully, you found some use out of this list, whether it be a tool, resource, or application that you needed in your workflow.
