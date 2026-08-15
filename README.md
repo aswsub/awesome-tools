@@ -122,9 +122,13 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Bat](https://github.com/sharkdp/bat) - A cat alternative with syntax highlighting and much more. `Free` `OSS`
 
+- [Bottom](https://github.com/ClementTsang/bottom) - A cross-platform system monitor with customizable process, CPU, memory, disk, and network views. `Free` `OSS`
+
 - [Broot](https://github.com/Canop/broot) - A modern `tree` alternative, with many more features than its predecessor. `Free` `OSS`
 
 - [Cava](https://github.com/karlstav/cava) - A audio visualizer for the terminal, with loads of features `Free` `OSS`
+
+- [Chafa](https://github.com/hpjansson/chafa) - A command-line image converter that renders images as terminal graphics, Unicode, or ASCII art. `Free` `OSS`
 
 - [Cheat.sh](https://cheat.sh) - A cheatsheet source that can be accessed from the cli, that provides a massive cheatsheet library from multiple sources. Works best from a unix-like os, but can be used with curl/wget/httpie `Free` `OSS`
 
@@ -208,6 +212,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [OpenSSH](https://www.openssh.com/) - Secure shell tools for remote login, file transfer, and encrypted network connections. `Free` `OSS`
 
+- [Pake](https://github.com/tw93/Pake) - Turn web pages into lightweight desktop apps with a single command. `Free` `OSS`
+
 - [Pandoc](https://pandoc.org/) - A universal document converter that can move text between markdown, HTML, LaTeX, docx, PDF workflows, and much more. `Free` `OSS`
 
 - [Pastel](https://github.com/sharkdp/pastel) - Manipulate and edit colors on the cli `Free` `OSS`
@@ -272,6 +278,8 @@ All of these tools and/or resources are free and open source unless specified
 - [Watchexec](https://watchexec.github.io/) - Run commands automatically when files change, useful for rebuilds and local dev loops. `Free` `OSS`
 
 - [Wget](https://www.gnu.org/software/wget/) - A reliable command line downloader for web pages and files, including recursive downloads. `Free` `OSS`
+
+- [Witr](https://github.com/pranshuparmar/witr) - Trace processes using a port or folder back to what started them. `Free` `OSS`
 
 - [Xh](https://github.com/ducaale/xh) - A friendly and fast HTTP request tool, similar to HTTPie but written in Rust. `Free` `OSS`
 
