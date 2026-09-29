@@ -82,6 +82,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Shotcut](https://www.shotcut.org/) - A video editor that is built for heavy users and is open to the public for easy use. `Free` `OSS`
 
+- [Super Productivity](https://super-productivity.com/) - An advanced todo list app with timeboxing, time tracking, calendar and issue-tracker integrations, and a focus on privacy. `Free` `OSS`
+
 - [Syncthing](https://syncthing.net/) - Syncthing is a P2P file synchronization utility, designed to sync files between devices over LAN or the Internet. `Free` `OSS`
 
 - [UniGetUI](https://devolutions.net/unigetui/) - Windows-focused GUI manager for package managers (unified updating of system packages). `Free` `OSS`
@@ -99,6 +101,8 @@ All of these tools and/or resources are free and open source unless specified
 - [Windows Terminal](https://github.com/microsoft/terminal) - It is a multi-tabbed terminal emulator developed by Microsoft for Windows 10+ as a replacement for Windows Console. `Free` `OSS`
 
 - [Xournalpp](https://xournalpp.github.io) - A pdf editor that allows for custom annotations on top of a pdf canvas. `Free` `OSS`
+
+- [Zen Browser](https://zen-browser.app/) - A Firefox-based, privacy-focused browser designed to improve productivity with features such as workspaces, compact mode, and split view. `Free` `OSS`
 
 ## CLI Applications
 
@@ -179,6 +183,8 @@ All of these tools and/or resources are free and open source unless specified
 - [Gping](https://github.com/orf/gping) - Ping with a graph. `Free` `OSS`
 
 - [Gum](https://github.com/charmbracelet/gum) - A set of terminal UI helpers to make shell scripts interactive and nicer to use. `Free` `OSS`
+
+- [Herdr](https://github.com/motionharvest/herdr) - An agent multiplexer that lives in the terminal, with persistent workspaces, tabs, panes, and agent status awareness. `Free` `OSS`
 
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted pieces so recovery can require multiple fragments. `Free` `OSS`
 
@@ -331,6 +337,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Kiro IDE](https://kiro.dev/) - An agentic AI IDE from AWS built around specs, plans, and structured coding workflows. `Free` `AI`
 
+- [Orca ADE](https://onorca.dev/) - An open source agent development environment for running coding agents in parallel, each in its own isolated git worktree. `Free` `OSS` `AI`
+
 - [Windsurf](https://windsurf.com/) - An AI-powered IDE for code generation, context-aware edits, and agentic software development. `Free` `AI`
 
 - [Zed](https://zed.dev/) - A fast collaborative code editor with built-in AI integrations and agent support. `Free` `OSS` `AI`
@@ -387,7 +395,7 @@ All of these tools and/or resources are free and open source unless specified
 
 [Table of Contents](#contents)
 
-- [Caddy](https://caddyserver.com/) - A web server and reverse proxy with automatic HTTPS as a major built-in feature. `Free` `OSS`
+- [Caddy](https://caddyserver.com/) - A web server and reverse proxy with automatic HTTPS (works locally too!!) as a major built-in feature. `Free` `OSS`
 
 - [Code-server](https://github.com/coder/code-server) - Run VS Code on a server and use it from a browser. `Free` `OSS`
 
@@ -415,9 +423,7 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Cloud Shell](https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal) - A theia-like IDE to run code in a full-featured web ide, with 5gb of storage. `Free` 🌟
 
-- [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source whiteboard and diagramming tool that I use to plan projects and sketch outlines. `Free` `OSS`
-
-- [Excalidraw](https://excalidraw.com) - An open source web whiteboard. I personally use it for notes. `Free` `OSS`
+- [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source whiteboard and diagramming tool that I use to plan projects and sketch outlines. Can also be used as a more informal whiteboard. `Free` `OSS`
 
 - [Farside](https://farside.link) - A redirection service that allows to load balance and choose between multiple privacy friendly alternative frontends `Free` `OSS`
 
