@@ -365,6 +365,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Llama.cpp](https://github.com/ggml-org/llama.cpp) - A lightweight inference stack for running large language models locally across many platforms. `Free` `OSS` `AI` 🌟
 
+- [Llmfit](https://github.com/AlexsJones/llmfit) - Find the best local LLMs for your hardware, download them, and run them. `Free` `OSS` `AI`
+
 - [OpenAI Codex](https://github.com/openai/codex) - OpenAI's open-source terminal coding agent for editing, running, and reasoning over codebases. Also has a desktop application. `Free` `OSS` `AI` 🌟
 
 - [Opencode](https://opencode.ai/) - An open-source terminal AI coding agent with a TUI for planning and editing code. `Free` `OSS` `AI` 🌟
