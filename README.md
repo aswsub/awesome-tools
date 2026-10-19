@@ -232,6 +232,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Rclone](https://rclone.org/) - Manage and sync files across cloud storage providers and local filesystems from the command line. `Free` `OSS`
 
+- [Relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that turns Conventional Commits into GitHub release notes (no API, no config). `Free` `OSS`
+
 - [Restic](https://restic.net) - A cross platform backup system with many features regarding security and general use. `Free` `OSS` 🌟
 
 - [Ripgrep](https://github.com/BurntSushi/ripgrep) - Modern alternative to grep. It is much faster than what it tries to replace. `Free` `OSS`
