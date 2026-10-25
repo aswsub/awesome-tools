@@ -371,6 +371,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Opencode](https://opencode.ai/) - An open-source terminal AI coding agent with a TUI for planning and editing code. `Free` `OSS` `AI` 🌟
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Runs natural-language web, Android, and iOS tests through a CLI and MCP tools; source-available (FSL-1.1-ALv2), with no software fee for permitted use and separate provider costs. `AI`.
+
 ### Overarching Agents
 
 - [OpenClaw](https://openclaw.ai/) - An open-source autonomous AI assistant framework for running persistent agents through messaging and tool integrations. `Free` `OSS` `AI`
