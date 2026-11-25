@@ -459,6 +459,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Conventional Commits](https://www.conventionalcommits.org/) - A commit message convention that makes changelogs and semantic versioning easier to automate. `Free` `OSS`
 
+- [BestJSON](https://bestjson.com/) - Format, validate and compare JSON locally in the browser; hosted proprietary tool. `Free`
+
 ### Web Extensions
 
 - [Obsidian Clipper](https://github.com/obsidianmd/obsidian-clipper) - Open-source browser extension for copying web content as Markdown. `Free` `OSS`
